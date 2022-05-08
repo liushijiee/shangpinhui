@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+##5.8更改
+后台地址改为http://gmall-h5-api.atguigu.cn，接口不变
